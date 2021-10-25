@@ -845,11 +845,6 @@ pointer-events: none;
 .jss8 {
   width: 100%;
   background: #fff;
-  left: 0;
-  top: 0;
-  position: fixed;
-  z-index: 999;
-  box-shadow: 0 0 4px rgba(0, 0, 9, 0.1);
 }
 @media (max-width:959.95px) {
 .jss10 {
